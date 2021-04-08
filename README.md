@@ -5,15 +5,19 @@ Image gallery made with React, TailwindCSS and Pixabay API. You can see the proj
 ## Usage
 You can see the Pixabay documentation [here](https://pixabay.com/api/docs/)
 
-```
-# Install dependencies
-npm install
 
-# Create .env variables
+#### Install dependencies
+```
+npm install
+```
+
+#### Create .env variables
+```
 REACT_APP_API_URL=https://pixabay.com/api/
 REACT_APP_PIXABAY_API_KEY=[YOUR_API_KEY]
+```
 
-# Run server
+#### Run server
+```
 npm start
-
 ```
